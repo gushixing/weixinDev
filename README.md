@@ -49,6 +49,6 @@ public class Test {
 > This is a text editor which is named markdown!
 
 --
-![个人照片](./src/main/resources/gushiing.jpg "个人照片")
--------------------------------------------------
+![个人照片](./src/main/resources/gushixing.jpg "个人照片")
+--------------------------------------------------
 2017&copy;[百度](http://www.baidu.com/)
